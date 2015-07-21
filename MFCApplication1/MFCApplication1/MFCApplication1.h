@@ -8,7 +8,7 @@
 #endif
 
 #include "resource.h"       // 主符号
-
+//结果导向指引
 
 // CMFCApplication1App:
 // 有关此类的实现，请参阅 MFCApplication1.cpp
